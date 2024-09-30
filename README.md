@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/fathimapa)
 <h1 align="center">Hi 👋, I'm Fathima PA</h1>
 <h3 align="center">A passionate python full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fathima-pa-9a4ab5205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fathima-pa-9a4ab5205/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fathima-pa-9a4ab5205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fathima-pa-9a4ab5205/" height="30" width="40" /></a> 
+<a href="https://github.com/fathimapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://www.linkedin.com/in/fathima-pa-9a4ab5205/" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
