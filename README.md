@@ -24,11 +24,8 @@ Python Full-Stack Developer | Django, React, PostgreSQL | AI integration & data-
 [![email](https://iili.io/KPjcV9f.png)](mailto:fathimapagm4@gmail.com)
 
 </div>
-
 <div align="center">
-  <h1>GitHub Stats:</h1>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=fathimapa&theme=blue_navy&hide_border=true" alt="GitHub Streak Stats" width="48%">
+
+## GitHub Status:
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fathimapa&theme=blue-navy&border=000000)](https://git.io/streak-stats)
 </div>
-
-
-
