@@ -29,7 +29,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=fathimapa&theme=blue_navy&hide_border=true" alt="GitHub Streak Stats" width="48%">
 </div>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fathimapa&theme=react" alt="fathimapa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fathimapa&theme=blue_navy&hide_border=true" alt="fathimapa" /></p>
 
 
 
